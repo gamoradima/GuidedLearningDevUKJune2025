@@ -13,6 +13,7 @@
 = MetaData.Schema.EG1.BK37.A4 "bb4d6607-026b-4b27-b640-8f5c77c1e89d"
 = MetaData.Schema.EG1.BK3 []
 = MetaData.Schema.EG1.BK4 []
++ MetaData.Schema.D24 true
 = MetaData.Schema.D8 "1bab9dcf-17d5-49f8-9536-8e0064f1dce0"
 + MetaData.Schema.D29 "null"
 + MetaData.Schema.D30 "null"
@@ -33,7 +34,8 @@
   "A3": "edcf55bf-cf3f-4af9-ab9f-cee37abecbbf",
   "A4": "edcf55bf-cf3f-4af9-ab9f-cee37abecbbf",
   "A5": "5ba94be4-ab38-4d0a-af35-67ae108ddbeb",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E16": true
 }
 + MetaData.Schema.D2 {
   "UId": "ba08dce8-f54a-bb62-f63b-7ad155390c2d",
@@ -41,7 +43,8 @@
   "A3": "edcf55bf-cf3f-4af9-ab9f-cee37abecbbf",
   "A4": "edcf55bf-cf3f-4af9-ab9f-cee37abecbbf",
   "A5": "5ba94be4-ab38-4d0a-af35-67ae108ddbeb",
-  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6"
+  "S2": "5cc8060d-6d10-4773-89fc-8c12d6f659a6",
+  "E16": true
 }
 + MetaData.Schema.D2 {
   "UId": "6423498a-21d2-44d6-56f6-a8fc681c3a2f",
@@ -53,6 +56,7 @@
   "S4": "5617e477-a0fb-497e-a9aa-f4a0fd52f76c",
   "E2": 1,
   "E6": true,
+  "E16": true,
   "E20": true,
   "E12": {
     "FB1": 1,
@@ -71,6 +75,7 @@
   "S4": "be088cd5-c1d4-4353-b615-087963413652",
   "E2": 1,
   "E6": true,
+  "E16": true,
   "E20": true,
   "E12": {
     "FB1": 1,
