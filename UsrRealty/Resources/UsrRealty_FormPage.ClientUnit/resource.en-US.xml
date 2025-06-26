@@ -28,6 +28,7 @@
 			<Item Name="LocalizableStrings.NumberInput_xk5kg2p_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0 EUR" />
 			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunWebServiceMenuItem_caption.Value" Value="Call Max price web service" />
 			<Item Name="LocalizableStrings.StartProcessAvgPriceMenuItem_caption.Value" Value="Start calc average price process" />
 		</Items>
 	</Group>
